@@ -1,0 +1,15 @@
+{
+  "name": "mail-libraries-tester",
+  "version": "1.0.0",
+  "description": "API for testing some mail libraries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "i.pena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
